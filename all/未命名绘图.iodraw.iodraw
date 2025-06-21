@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-36" value="查看课程信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="195" y="660" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="s1xBC4K7eJvfmk8twfwU-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,6 +235,9 @@
         </mxCell>
         <mxCell id="dxpLbNu2nt8viwYaQbqo-9" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dxpLbNu2nt8viwYaQbqo-11" value="查看课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="730" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
