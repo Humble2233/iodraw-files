@@ -37,11 +37,14 @@
         <mxCell id="s1xBC4K7eJvfmk8twfwU-10" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s1xBC4K7eJvfmk8twfwU-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="s1xBC4K7eJvfmk8twfwU-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="210" as="sourcePoint" />
+            <mxPoint x="120" y="230" as="sourcePoint" />
             <mxPoint x="120" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
