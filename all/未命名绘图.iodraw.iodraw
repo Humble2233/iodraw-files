@@ -179,6 +179,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-70" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="125" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
