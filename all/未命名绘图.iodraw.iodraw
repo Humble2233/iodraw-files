@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-18" value="成绩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="205" width="90" height="40" as="geometry" />
+          <mxGeometry x="-50" y="205" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -99,11 +99,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="172.24" y="346.1" as="sourcePoint" />
             <mxPoint x="357.76" y="343.9000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s1xBC4K7eJvfmk8twfwU-57" value="p&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1xBC4K7eJvfmk8twfwU-29">
-          <mxGeometry x="-0.0176" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-30" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -191,6 +186,9 @@
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-55" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="318" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-58" value="p" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="318" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
