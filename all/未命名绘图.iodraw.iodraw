@@ -7,7 +7,7 @@
         <mxCell id="s1xBC4K7eJvfmk8twfwU-2" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s1xBC4K7eJvfmk8twfwU-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="s1xBC4K7eJvfmk8twfwU-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="85.22" y="79.99999999999999" as="sourcePoint" />
             <mxPoint x="29.997929907570978" y="99.4901423855632" as="targetPoint" />
@@ -21,8 +21,8 @@
         </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="220" as="sourcePoint" />
-            <mxPoint x="110" y="160" as="targetPoint" />
+            <mxPoint x="119.58" y="120" as="sourcePoint" />
+            <mxPoint x="119.58" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
