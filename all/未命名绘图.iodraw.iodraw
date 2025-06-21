@@ -161,11 +161,16 @@
             <mxPoint x="630" y="139.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-67" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s1xBC4K7eJvfmk8twfwU-64">
+          <mxGeometry x="-0.0519" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s1xBC4K7eJvfmk8twfwU-65" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s1xBC4K7eJvfmk8twfwU-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="118" width="50" height="30" as="geometry" />
+        <mxCell id="s1xBC4K7eJvfmk8twfwU-66" value="q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="118" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
